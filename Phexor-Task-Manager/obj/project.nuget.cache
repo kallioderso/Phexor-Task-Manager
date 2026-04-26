@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4utzCBawfM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pasca\\RiderProjects\\Phexor-Task-Manager\\Phexor-Task-Manager\\Phexor-Task-Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pasca\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Users\\pasca\\.nuget\\packages\\microsoft.data.sqlite\\11.0.0-preview.3.26207.106\\microsoft.data.sqlite.11.0.0-preview.3.26207.106.nupkg.sha512",
+    "C:\\Users\\pasca\\.nuget\\packages\\microsoft.data.sqlite.core\\11.0.0-preview.3.26207.106\\microsoft.data.sqlite.core.11.0.0-preview.3.26207.106.nupkg.sha512",
+    "C:\\Users\\pasca\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\pasca\\.nuget\\packages\\sourcegear.sqlite3\\3.50.4.2\\sourcegear.sqlite3.3.50.4.2.nupkg.sha512",
+    "C:\\Users\\pasca\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.2\\sqlitepclraw.bundle_e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\pasca\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.2\\sqlitepclraw.config.e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\pasca\\.nuget\\packages\\sqlitepclraw.core\\3.0.2\\sqlitepclraw.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\pasca\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.2\\sqlitepclraw.provider.e_sqlite3.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

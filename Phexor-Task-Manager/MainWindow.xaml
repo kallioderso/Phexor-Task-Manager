@@ -1,0 +1,16 @@
+﻿ <Window x:Class="Phexor_Task_Manager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:view="clr-namespace:Phexor_Task_Manager.MVVM.View"
+        mc:Ignorable="d"
+        Title="Phexor - Task Manager" SizeToContent="WidthAndHeight" Icon="pack://application:,,,/Images/phexor-task-manager.png">
+    <Grid>
+        <!-- Host for navigable views. Other ViewModels / Views can request the window to show a different view
+             by calling methods on the MainWindow (e.g. ShowView). The initial content is the MainView. -->
+        <ContentControl x:Name="MainHost">
+            <view:MainView />
+        </ContentControl>
+    </Grid>
+</Window>
