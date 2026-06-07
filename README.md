@@ -31,9 +31,9 @@
 ---
 
 ## Screenshots
-[Screenshot1](Images/Screenshot1.png)
-[Screenshot1](Images/Screenshot2.png)
-[Screenshot1](Images/Screenshot3.png)
+[Screenshot1](Phexor-Task-Manager/Images/Screenshot1.png)
+[Screenshot1](Phexor-Task-Manager/Images/Screenshot2.png)
+[Screenshot1](Phexor-Task-Manager/Images/Screenshot3.png)
 
 ---
 
