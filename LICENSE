@@ -1,0 +1,114 @@
+Phexor Non-Commercial License
+Version 1.0 — 2026
+
+Copyright (c) 2026 kallioderso
+
+───────────────────────────────────────────────────────────────────────────────
+PREAMBLE
+───────────────────────────────────────────────────────────────────────────────
+
+This license governs the use, reproduction, modification, and distribution of
+the software known as "Phexor Task Manager" (hereinafter "the Software").
+
+The intent of this license is to allow free personal and educational use of
+the Software while explicitly prohibiting any form of commercial exploitation,
+including but not limited to selling, sublicensing for payment, or incorporating
+the Software into commercial products or services.
+
+───────────────────────────────────────────────────────────────────────────────
+1. GRANT OF LICENSE
+───────────────────────────────────────────────────────────────────────────────
+
+Subject to the terms and conditions of this license, the copyright holder hereby
+grants you a worldwide, royalty-free, non-exclusive license to:
+
+  a) Use the Software for personal, educational, or non-commercial purposes.
+  b) Copy and redistribute the Software in its original or modified form,
+     provided that this license file is included unchanged in all copies.
+  c) Modify the Software and create derivative works, provided that such
+     derivative works are distributed under this same license or a license
+     with equivalent or stricter non-commercial restrictions.
+
+───────────────────────────────────────────────────────────────────────────────
+2. RESTRICTIONS
+───────────────────────────────────────────────────────────────────────────────
+
+The following uses are expressly prohibited:
+
+  a) COMMERCIAL USE: You may not sell, rent, lease, sublicense, or otherwise
+     transfer the Software or any derivative works for monetary compensation or
+     any other form of commercial gain.
+
+  b) COMMERCIAL DISTRIBUTION: You may not distribute the Software as part of a
+     commercial product, service, or offering, whether directly or indirectly.
+
+  c) PAID SERVICES: You may not use the Software to provide paid services,
+     consulting, or support to third parties without the prior written consent
+     of the copyright holder.
+
+  d) REMOVAL OF NOTICES: You may not remove, alter, or obscure any copyright
+     notice, license notice, or attribution contained in the Software or its
+     documentation.
+
+───────────────────────────────────────────────────────────────────────────────
+3. ATTRIBUTION
+───────────────────────────────────────────────────────────────────────────────
+
+Any redistribution or publication of the Software or derivative works must
+visibly credit the original author (kallioderso) and include a link to the
+original repository where reasonably possible.
+
+───────────────────────────────────────────────────────────────────────────────
+4. DISCLAIMER OF WARRANTIES (GEWÄHRLEISTUNGSAUSSCHLUSS)
+───────────────────────────────────────────────────────────────────────────────
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE AUTHOR MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING THE ACCURACY,
+COMPLETENESS, RELIABILITY, OR SUITABILITY OF THE SOFTWARE FOR ANY PARTICULAR
+PURPOSE. USE OF THE SOFTWARE IS ENTIRELY AT YOUR OWN RISK.
+
+───────────────────────────────────────────────────────────────────────────────
+5. LIMITATION OF LIABILITY — HAFTUNGSAUSSCHLUSS
+───────────────────────────────────────────────────────────────────────────────
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
+OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Der Autor übernimmt keinerlei Haftung für Schäden, die durch die Nutzung oder
+Nichtnutzbarkeit der Software entstehen. Dies gilt insbesondere für Datenverlust,
+Systemausfälle, entgangene Gewinne oder sonstige mittelbare oder unmittelbare
+Schäden, unabhängig davon, ob der Autor auf die Möglichkeit solcher Schäden
+hingewiesen wurde.
+
+Die Nutzung der Software erfolgt vollständig auf eigenes Risiko. Eine Haftung
+des Autors — gleich aus welchem Rechtsgrund — ist ausgeschlossen, soweit dies
+gesetzlich zulässig ist.
+
+───────────────────────────────────────────────────────────────────────────────
+6. TERMINATION
+───────────────────────────────────────────────────────────────────────────────
+
+This license and the rights granted hereunder will terminate automatically upon
+any breach by you of the terms of this license. Upon termination, you must
+destroy all copies of the Software in your possession or control.
+
+───────────────────────────────────────────────────────────────────────────────
+7. GOVERNING LAW
+───────────────────────────────────────────────────────────────────────────────
+
+This license shall be governed by and construed in accordance with the laws of
+the Federal Republic of Germany, without regard to conflict-of-law principles.
+Any disputes arising under or in connection with this license shall be subject
+to the exclusive jurisdiction of the courts of Germany.
+
+───────────────────────────────────────────────────────────────────────────────
+
+For permissions beyond the scope of this license, please contact the author.
