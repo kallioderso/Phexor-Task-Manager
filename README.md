@@ -5,54 +5,48 @@
 <h1 align="center">Phexor Task Manager</h1>
 
 <p align="center">
-  A lightweight, modern task management desktop application built with WPF and .NET.
+  a quick, modern and SQL based Task-Manager created in .Net, using C#.
 </p>
 
 ---
 
 ## Overview
 
-**Phexor Task Manager** is a Windows desktop application that helps you organize and track your tasks efficiently. It features a clean, warm Phoenix-themed UI with orange accents, a local SQLite database for offline-first storage, and a fully MVVM-based architecture.
+**Phexor Task Manager** is just a simple, Desktop Application, there to Create Tasks, Edit them, Mark them as completed and if they get to much, as well to delete them. currently its just allowing you to have one table, but i am already working on a multi table design and code so you can store and sort even more things to remember :)
 
 ---
 
 ## Features
 
-- 📋 **Task Overview** – See all your tasks at a glance in a card-based list
-- ✅ **Mark as Done** – Check off tasks directly from the overview
-- ➕ **Create Tasks** – Add tasks with a title, description, start date, and target date
-- ✏️ **Edit Tasks** – Double-click any task to open the edit view and update its details
-- 🗑️ **Delete Tasks** – Remove tasks you no longer need
-- ⚙️ **Settings** – Configure the logging level (None / Error / Info / Debug)
-- 💾 **Local SQLite Database** – All data is stored locally in `Task-Manager.db`, no internet required
-- 🎨 **Phoenix Color Palette** – Warm cream background with orange, red, yellow and green accents
+- Creating new Tasks
+  - Creation Time
+  - End Time
+  - Marked (yes/no)
+  - Title
+  - Description
+- Editing Tasks
+- Removing Tasks
+- Marking Tasks
 
 ---
 
 ## Screenshots
-
-> Place your application screenshots here once you have them.
+[Screenshot1](Images/Screenshot1.png)
+[Screenshot1](Images/Screenshot2.png)
+[Screenshot1](Images/Screenshot3.png)
 
 ---
 
 ## Tech Stack
-
-| Component | Technology |
-|-----------|-----------|
-| Language | C# |
-| Framework | .NET 10 (Windows) |
-| UI | WPF (Windows Presentation Foundation) |
-| Architecture | MVVM |
-| Database | SQLite via `Microsoft.Data.Sqlite` |
-| MVVM Toolkit | `CommunityToolkit.Mvvm` |
-| Behaviors | `Microsoft.Xaml.Behaviors.Wpf` |
+![Static Badge](https://img.shields.io/badge/C%23-language?label=language&color=blue) ![Static Badge](https://img.shields.io/badge/MVVM-Pattern?label=Pattern&color=yellow) ![Static Badge](https://img.shields.io/badge/SQL-Techniques?label=Techniques&color=red) ![Static Badge](https://img.shields.io/badge/XAML-Techniques?label=Techniques&color=red)
 
 ---
 
 ## Requirements
 
 - Windows 10 or later
-- [.NET 10 Runtime](https://dotnet.microsoft.com/download/dotnet/10.0) (or .NET 10 SDK to build from source)
+  - [.NET 10 Runtime](https://dotnet.microsoft.com/download/dotnet/10.0) (or .NET 10 SDK to build from source)
+  - Download from last Release:
 
 ---
 
@@ -84,32 +78,10 @@ dotnet publish Phexor-Task-Manager/Phexor-Task-Manager.csproj -c Release -r win-
 
 The output will be placed in `bin/Release/net10.0-windows/win-x64/publish/`.
 
----
+### Download and Run
 
-## Project Structure
-
-```
-Phexor-Task-Manager/
-├── Images/
-│   ├── phexor-task-manager.ico   # Application icon
-│   └── phexor-task-manager.png   # Application logo
-├── MVVM/
-│   ├── Model/
-│   │   └── Datenbank.cs          # SQLite database access layer
-│   ├── View/
-│   │   ├── MainView.xaml         # Task list overview
-│   │   ├── CreateView.xaml       # New task form
-│   │   ├── ChangeView.xaml       # Edit task form
-│   │   └── SettingsView.xaml     # Application settings
-│   └── ViewModel/
-│       ├── MainViewModel.cs
-│       ├── CreateViewModel.cs
-│       ├── ChangeViewModel.cs
-│       └── SettingsViewModel.cs
-├── MainWindow.xaml                # Shell window / navigation host
-├── App.xaml
-└── Phexor-Task-Manager.csproj
-```
+Download from last Release as .exe
+Execute from your download Directory or wherever you saved it in
 
 ---
 
@@ -118,7 +90,7 @@ Phexor-Task-Manager/
 This project is licensed under the **Phexor Non-Commercial License**.  
 See the [LICENSE](LICENSE) file for full details.
 
-**Short summary:** Free to use, modify, and share — but **not** for commercial sale or paid redistribution.
+basically allowing you to use it as you want, but not for Commercial uses like selling it
 
 ---
 
@@ -126,4 +98,4 @@ See the [LICENSE](LICENSE) file for full details.
 
 This software is provided **as-is**, without any warranty of any kind.  
 The author accepts **no liability** for any damages arising from the use of this software.  
-See the [LICENSE](LICENSE) file for the full disclaimer / Haftungsausschluss.
+See the [LICENSE](LICENSE) file for the full disclaimer.
